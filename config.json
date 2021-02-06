@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/news_buzz",
+    "prod_uri": "mysql://root:@localhost/news_buzz",
+    "fb_url": "https://facebook.com/Newsfeed",
+    "tw_url": "https://twitter.com/Newsfeed",
+    "gh_url": "https://github.com/Newsfeed",
+    "blog_name": "NEWS BUZZ",
+    "tagline" : "Keeps you Update!!!",
+    "about_text": "NEWS BUZZ is an online communication medium which is read all over the world...\n NEWS BUZZ publish publications,press releases,coloumns,articles,blogs which gives you a ride from your town to the world in a minute.",
+    "no_of_post": 3,
+    "login_image": "logo.png",
+    "admin_user": "ayush",
+    "admin_password": "nigam",
+    "upload_location": "E:\\python_programs\\flask\\static\\img"
+  }
+}
